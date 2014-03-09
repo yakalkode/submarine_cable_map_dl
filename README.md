@@ -5,4 +5,5 @@ This script aims to download the full map of submarine cable available online at
 Usage
 =====
 ``$ ./download_submarine_cable_map.sh``
+
 ``$ display out.png``
