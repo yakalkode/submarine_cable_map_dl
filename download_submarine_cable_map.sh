@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 URL_BASE=http://c.tiles.telegeography.com/maps/submarine-cable-map-2014/6/
 for x in `seq 0 1 63`; do
