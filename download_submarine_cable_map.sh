@@ -32,4 +32,6 @@ for x in `seq 0 1 63`; do
   echo
 done
 
+echo "Completed download, compiling into single file."
+
 montage -mode Concatenate -tile x64 *_*.png sub_$YEAR.png
