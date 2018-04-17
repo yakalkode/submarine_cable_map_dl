@@ -14,16 +14,16 @@ Usage
 
 Original
 ========
-[2012 sponsored by Telecom Egypt](http://submarine-cable-map-2012.telegeography.com/) - new age map style
+[2012 sponsored by Telecom Egypt](http://submarine-cable-map-2012.telegeography.com/)
 
-[2013 sponsored by Telecom Egypt](http://submarine-cable-map-2013.telegeography.com/) - classic map style
+[2013 sponsored by Telecom Egypt](http://submarine-cable-map-2013.telegeography.com/) - "An Antique Exploration"
 
-[2014 sponsored by Mobily](http://submarine-cable-map-2014.telegeography.com/) - new age map style
+[2014 sponsored by Mobily](http://submarine-cable-map-2014.telegeography.com/) - "Protectors of the Internet"
 
-[2015 sponsored by PCCW Global](http://submarine-cable-map-2015.telegeography.com/) - classic map style
+[2015 sponsored by PCCW Global](http://submarine-cable-map-2015.telegeography.com/) - "Sub Cables and Sea Monsters"
 
-[2016 sponsored by PCCW Global](http://submarine-cable-map-2016.telegeography.com/) - new age blue map style
+[2016 sponsored by PCCW Global](http://submarine-cable-map-2016.telegeography.com/) - "321 Cable Systems Strong"
 
-[2017 sponsored by Telecom Egypt](http://submarine-cable-map-2017.telegeography.com/) - pinboard style
+[2017 sponsored by Telecom Egypt](http://submarine-cable-map-2017.telegeography.com/) - "The Adventurer's Map"
 
-[2018 sponsored by Telecom Egypt](http://submarine-cable-map-2018.telegeography.com/) - new age paper map style
+[2018 sponsored by Telecom Egypt](http://submarine-cable-map-2018.telegeography.com/) - "Detailing 366 Systems"
